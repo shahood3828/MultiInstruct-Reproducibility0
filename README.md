@@ -1,5 +1,4 @@
 # MultiInstruct-Reproducibility0
-# MultiInstruct Reproducibility
 
 This repository contains the code for reproducing the experiments from the paper "MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning" by Zhiyang Xu, Ying Shen, and Lifu Huang.
 
