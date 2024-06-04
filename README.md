@@ -46,4 +46,4 @@ Include a table comparing your results to the published results, and discuss any
 
 ## Contact
 
-For any questions or issues, please contact [Your Name] at [your.email@example.com].
+For any questions or issues, please contact [shahd alzarooni] at [22001483@ug.buid.ac.ae].
